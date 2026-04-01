@@ -1,2 +1,4 @@
 This is a new text file. This is a second commit.
-the new features added
+the new features added.
+ 
+And second features added using branch.
